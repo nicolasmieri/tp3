@@ -1,6 +1,9 @@
 # tecnomultimedia
 
 
+Hola profesor, para la entrega recuperatoria del trabajo práctico 3 rehice el readme y el diagrama de flujos como me remarcaste, pero no fui capaz de aplicar correctamente la redimensión, no me salió a pesar de haberlo intentado y de haber asistido a la clase de consulta. Espero que aun con esa falencia esté medianamente bien el trabajo 
+
+
 Pantalla 1: Pantalla inicial de la aventura
 
 Pantalla 2: Dorothy y Totó son arrastrados hasta Oz por un terrible tornado
